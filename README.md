@@ -2,4 +2,4 @@
 GitHub tutorial example
 
 Hi, 
-I am eager to user GitHub
+I am eager to use GitHub
